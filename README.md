@@ -7,3 +7,7 @@ His license allows for non-commercial use.
 
 Usage: change the absolute file path for the vocabulary CSV to the one on your PC. 
 run `python wotd_jp.py`
+
+I made this script for personal use and made it run whenever I open a new terminal (easy to do on \*nix systems). 
+Please let me know if you found it useful!
+
